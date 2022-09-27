@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rule-header{
+    border-bottom: black solid 3px;
+}
+.account-detail{
+    height: 250px;
+    background: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.round-cirle{
+    width: 30px;
+    height: 30px;
+    background: black;
+    text-align: center;
+    border-radius: 50%;
+
+}
+.account-info-title {
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 9px;
+}
+.account-info{
+    margin-bottom: 1.5rem;
+}
+.send{
+    background: #017bdd;
+    width: 37px;
+    text-align: center;
+    color: #fff;
+    border-radius: 51%;
+    font-size: 24px;
+}
+.cb{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: solid 1px #aeaeae;
+    border-radius: 50%;
+    font-size: 26px;
+    margin: 0 14px;
+}
+.sent-ether, .sether{
+    line-height: 0.3;
+}
+.date{
+    font-size: 10px;
+}
+.item{
+
+}
+.hrr{
+    margin: 12px 14px;
+}
+
+.hrr2{
+    
+    border-bottom: grey 1px;
+}
+
+.hrr3{
+    
+    border-bottom: black 2px;
+}
